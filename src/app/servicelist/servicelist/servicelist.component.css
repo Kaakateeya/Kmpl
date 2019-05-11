@@ -1,0 +1,16 @@
+.bordergr{
+        border: 1px solid green;
+}
+.listcolor{
+    color: green;
+}
+.servicelabel{
+    width: 26%;
+    float: left;
+}
+.serviceselect{
+        width: 40%;
+}
+.seviceform{
+        padding: 10px 0 5px 70px;
+}

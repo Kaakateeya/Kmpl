@@ -1,0 +1,13 @@
+.servicereg{
+        width: 18%;
+    float: left;
+}
+.servicerform{
+        padding: 10px 0 10px 30px;
+}
+.serviceborderpart{
+        border: 1px solid #000;
+}
+.serviceinputpart{
+        width: 38%;
+}

@@ -1,0 +1,21 @@
+
+.nameia{
+    width: 46%;
+}
+.lablena{
+    width: 30%;
+    float: left;
+}
+#astrodetails h5{
+    font-size: 20px;
+    color: red;
+    /* border-bottom: 2px solid red; */
+    width: 14%;
+    margin-left: 35%;
+}
+#astrodetails .bodydetails{
+    position: relative;
+    bottom: 27px;
+}
+
+

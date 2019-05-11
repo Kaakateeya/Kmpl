@@ -1,0 +1,28 @@
+.contactparttype{
+    width: 69%;
+}
+.contactpart{
+    width: 30%;
+    float: left;
+}
+#Myfatherdetails h5{
+    font-size: 20px;
+    color: red;
+    /* border-bottom: 2px solid red; */
+    width: 14%;
+    margin-left: 35%;
+}
+.ffdetails{
+    margin-top: 0%;
+       width: 26% !important;
+    margin-left: 30% !important;
+}
+.fathertext{
+     width: 70%;
+}
+.contactpartcheck{
+    width: 5%;
+}
+.contacttext{
+    width: 69%;
+}

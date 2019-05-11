@@ -1,0 +1,17 @@
+#locationdetails h5{
+    font-size: 20px;
+    color: red;
+    border-bottom: 2px solid red;
+    width: 30%;
+    margin-left: 30%
+}
+/* .backclass {
+    background: rgb(196, 190, 190);
+    pointer-events: none;
+    border-bottom: 2px solid #fff;
+} */
+/* .backwhite {
+    width: 100%;
+    background: #b97c0d;
+    border: 2px solid #fff;
+} */

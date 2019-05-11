@@ -1,0 +1,31 @@
+#Myeducationdetails h5{
+    font-size: 20px;
+    color: red;
+    width: 15%;
+    margin-left: 35%;
+}
+.educatia{
+    width: 46%;
+}
+.educatna{
+    width: 30%;
+    float: left;
+}
+.educatnaqua{
+    width: 21%;
+    float: left;
+}
+.fathertextqua{
+    width: 75%;
+}
+.educatiait{
+    width: 25%;
+}
+.educatiaitd{
+      width: 25%;
+      float: left;
+      margin-right: 1%;
+}
+#Myeducationdetails{
+    margin-bottom: 5%;
+}

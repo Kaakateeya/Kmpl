@@ -1,0 +1,54 @@
+#Myeducationdetails h5{
+    font-size: 20px;
+    color: red;
+    width: 15%;
+    margin-left: 35%;
+}
+.basicparttype{
+    width: 60%;
+}
+.basicpart{
+    width: 30%;
+    float: left;
+}
+
+.fathertextqua{
+    width: 75%;
+}
+
+#Myeducationdetails{
+    margin-bottom: 5%;
+}
+.basictext{
+    width: 65%;
+}
+.basicbirth{
+        width: 27%;
+    float: left;
+    margin-right: 1%;
+        margin-bottom: 15px;
+}
+.basicpartcheckbox{
+    width: 4%;
+}
+
+
+
+/* .canvas-container {
+  border: 1px solid black;
+  padding: 0px;
+}
+:host >>> canvas {
+  margin-bottom: -5px;
+}
+body {
+  margin-bottom: 30px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  background-color: #f5f5f5;
+  padding-top: 6px;
+} */

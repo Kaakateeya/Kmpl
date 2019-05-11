@@ -1,0 +1,22 @@
+.motheria{
+    width: 46%;
+}
+.motherna{
+    width: 30%;
+    float: left;
+}
+#Mymotherdetails h5{
+    font-size: 20px;
+    color: red;
+    /* border-bottom: 2px solid red; */
+    width: 14%;
+    margin-left: 35%;
+}
+.ffdetails{
+    margin-top: 0%;
+       width: 27% !important;
+    margin-left: 30% !important;
+}
+.mothertext{
+     width: 70%;
+}
